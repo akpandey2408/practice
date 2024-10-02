@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AdamyaApplication<Adamya>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.exampleCrud.Adamya.AdamyaApplication",
+            "projectName": "Adamya",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
